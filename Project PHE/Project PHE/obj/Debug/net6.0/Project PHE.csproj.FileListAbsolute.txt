@@ -1,0 +1,50 @@
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\appsettings.Development.json
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\appsettings.json
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Project PHE.exe
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Project PHE.deps.json
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Project PHE.runtimeconfig.json
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Project PHE.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Project PHE.pdb
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Humanizer.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\MySqlConnector.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.csproj.AssemblyReference.cache
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.AssemblyInfoInputs.cache
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.AssemblyInfo.cs
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.csproj.CoreCompileInputs.cache
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.MvcApplicationPartsAssemblyInfo.cs
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.MvcApplicationPartsAssemblyInfo.cache
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\staticwebassets\msbuild.Project PHE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\staticwebassets\msbuild.build.Project PHE.props
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Project PHE.props
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Project PHE.props
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\staticwebassets.pack.json
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\staticwebassets.build.json
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\staticwebassets.development.json
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\scopedcss\bundle\Project PHE.styles.css
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.csproj.CopyComplete
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.dll
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\refint\Project PHE.dll
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.pdb
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\Project PHE.genruntimeconfig.cache
+D:\code\Project PHE\Project PHE\obj\Debug\net6.0\ref\Project PHE.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\code\Project PHE\Project PHE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
